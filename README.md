@@ -19,4 +19,4 @@ The following parameters can be modified in the code to customize the generated 
   <li>max_thickness: The maximum thickness of each shape in pixels (default is 5).</li>
 </ul>
 
-Feel free to experiment with these parameters to create your own unique rangoli images!
+Feel free to experiment with these parameters to create your own unique rangoli patterns!
