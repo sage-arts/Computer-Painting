@@ -17,5 +17,4 @@ The following parameters can be modified in the code to customize the generated 
   <li>num_quarter_circles: The number of quarter circles at each corner of the image (default is 4).</li>
   <li>max_radius_ratio: The maximum ratio between the radius of each shape and the radius of the center circle (default is 2).</li>
   <li>max_thickness: The maximum thickness of each shape in pixels (default is 5).</li>
-<ul>
-Feel free to experiment with these parameters to create your own unique rangoli images!
+<ul> Feel free to experiment with these parameters to create your own unique rangoli images!
